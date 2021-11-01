@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback',  'Cascadia Code PL'",
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.fontFamily": "Delugia Nerd Font",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
